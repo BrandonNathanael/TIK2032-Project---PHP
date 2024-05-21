@@ -1,2 +1,2 @@
-# TIK2032-Project---PHP
-Lanjutan PHP
+# TIK2032-Project
+ Repositori project TIK2032 - Brandon Nathanael Montong 220211060065
